@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=caciuleanuciprian&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="caciuleanuciprian" 
+    bg_color=#808080/></p>
+
+<br>
+
 <!--
 **caciuleanuciprian/caciuleanuciprian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
